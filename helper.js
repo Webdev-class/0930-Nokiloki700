@@ -9,4 +9,4 @@ function f1(floor) {
    )
   }
 
-  console.log(f1(2))
+console.log(f1(2))
